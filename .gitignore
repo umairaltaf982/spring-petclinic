@@ -40,9 +40,10 @@ out/
 /.nb-gradle/
 
 ### VS Code ###
-.vscode/
 
 ### CSS ###
 _site/
 *.css
 !petclinic.css
+config.bat
+node_modules
